@@ -5,6 +5,9 @@
 /KeePassLib/obj
 /KeePassLibSD/obj
 /Translation/TrlUtil/obj
+
+/KeePass.suo
+
 *.exe
 *.pdb
 *.user
