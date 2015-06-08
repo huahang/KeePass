@@ -1,0 +1,10 @@
+/Build/KeePass
+/Build/KeePassLib
+/Build/KeePassLibSD
+/KeePass/obj
+/KeePassLib/obj
+/KeePassLibSD/obj
+/Translation/TrlUtil/obj
+*.exe
+*.pdb
+*.user
